@@ -18,7 +18,7 @@ title: Home
     <div class="container">
       <div class="row">
         <div class="one-half column value">
-          <h2 class="value-multiplier">Comming Spring 2019</h2>
+          <h2 class="value-multiplier">Coming Spring 2019</h2>
         </div>
       </div>
     </div>
