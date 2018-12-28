@@ -128,7 +128,13 @@ body {
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
-  background: url("../pics/comm_beach.JPG") no-repeat center center fixed;
+  /* background: url("../pics/comm_beach.JPG") no-repeat center center fixed; */
+  background: no-repeat center center zoom ;
+  background-image: url("../pics/comm_small.jpg");
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: auto;
+
 }
 
 
