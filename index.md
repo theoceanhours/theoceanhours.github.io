@@ -13,12 +13,20 @@ title: Home
       </div>
     </div>
   </div>
-
   <div class="section values">
     <div class="container">
       <div class="row">
         <div class="one-half column value">
-          <h2 class="value-multiplier">Coming Spring 2019</h2>
+		<iframe src="https://open.spotify.com/embed/album/2KFEef7nFBXmaXiUdrn8Fc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        </div>
+      </div>
+      <div class="row">
+        <div class="one-half column value">
+		<span style="font-size: 3em; color: Grey;">
+	<a href="https://itunes.apple.com/ie/artist/the-ocean-hours/1455797617" class="fab fa-itunes"></a>
+	<a href="https://www.youtube.com/channel/UCPu4X7gm5ptMgT_5z_aPpWg" class="fab fa-youtube-square"></a>
+	<a href="https://www.youtube.com/channel/UCPu4X7gm5ptMgT_5z_aPpWg" class="fab fa-kickstarter"></a>
+	</span>
         </div>
       </div>
     </div>
