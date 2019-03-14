@@ -26,6 +26,8 @@ title: Home
 	<a href="https://itunes.apple.com/ie/artist/the-ocean-hours/1455797617" class="fab fa-itunes"></a>
 	<a href="https://www.youtube.com/channel/UCPu4X7gm5ptMgT_5z_aPpWg" class="fab fa-youtube-square"></a>
 	<a href="https://www.youtube.com/channel/UCPu4X7gm5ptMgT_5z_aPpWg" class="fab fa-kickstarter"></a>
+	<a href="https://www.instagram.com/theoceanhoursmusic/" class="fab fa-instagram"></a>
+
 	</span>
         </div>
       </div>
