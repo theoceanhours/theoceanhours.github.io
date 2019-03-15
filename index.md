@@ -25,7 +25,7 @@ title: Home
 		<span style="font-size: 3em; color: Grey;">
 	<a href="https://itunes.apple.com/ie/artist/the-ocean-hours/1455797617" class="fab fa-itunes"></a>
 	<a href="https://www.youtube.com/channel/UCPu4X7gm5ptMgT_5z_aPpWg" class="fab fa-youtube-square"></a>
-	<a href="https://www.youtube.com/channel/UCPu4X7gm5ptMgT_5z_aPpWg" class="fab fa-kickstarter"></a>
+	<a href="https://www.kickstarter.com/projects/theoceanhours/the-ocean-hours-swim-for-the-surface?ref=project_build" class="fab fa-kickstarter"></a>
 	<a href="https://www.instagram.com/theoceanhoursmusic/" class="fab fa-instagram"></a>
 
 	</span>
