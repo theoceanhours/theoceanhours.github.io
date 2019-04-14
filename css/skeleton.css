@@ -130,10 +130,12 @@ body {
   color: #333;
   /* background: url("../pics/comm_beach.JPG") no-repeat center center fixed; */
   background: no-repeat center center zoom ;
-  background-image: url("../pics/comm_small.jpg");
+  /*background-image: url("../pics/comm_small.jpg");*/
+  background-image: url("../pics/LoughMask.jpg");
   background-repeat:no-repeat;
   background-position: center;
-  background-size: auto;
+  background-size: 100%;
+  background-color: #F2F4F6
 
 }
 
@@ -429,3 +431,22 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+/* */
+.footerholder {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    font-size: small;
+    color: grey;
+    width: 100%;
+}
+
+.footer {
+    background: none repeat scroll 0 0 transparent;
+    height: 45px;
+    margin: auto;
+    width: 100%;
+}
