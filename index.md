@@ -12,7 +12,6 @@ title: Home
 	<a href="https://www.instagram.com/theoceanhoursmusic/" class="fab fa-instagram"></a>
 	<a href="https://mailchi.mp/bf1d5c39975b/theoceanhours" class="fab fa-mailchimp"></a>
 	<a href="mailto:theoceanhours@gmail.com" class="fa fa-envelope"></a>
-
 	</span>
       </div>
     </div>
