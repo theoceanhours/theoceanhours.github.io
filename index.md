@@ -35,6 +35,13 @@ title: Home
   <div class="section values">
     <div class="container">
       <div class="row">
+  	  <iframe style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3240067455/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=443826723/transparent=true/" seamless><a href="http://theoceanhours.bandcamp.com/album/the-distance-ep">The Distance EP by The Ocean Hours</a></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="section values">
+    <div class="container">
+      <div class="row">
   	  <iframe width="400" height="220" src="https://www.youtube.com/embed/iTZn7o_X23Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
