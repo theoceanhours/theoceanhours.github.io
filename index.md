@@ -20,7 +20,7 @@ title: Home
     <div class="container">
       <div class="row">
         <div class="one-half column value" >
-		<iframe src="https://open.spotify.com/embed/album/2KFEef7nFBXmaXiUdrn8Fc" width="400" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media" style="box-shadow: 0px 2px 2px"></iframe>
+		<iframe src="https://open.spotify.com/embed/album/1CpmjhgoBYOSNOftGptdzi" width="400" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media" style="box-shadow: 0px 2px 2px"></iframe>
         </div>
       </div>
     </div>
